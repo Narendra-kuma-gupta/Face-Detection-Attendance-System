@@ -24,24 +24,6 @@ Includes a **React.js dashboard** to visualize live attendance records. The syst
 
 ---
 
----
-
-### 🔹 Demo
-
-![Project Demo](./public/Face_Project.gif)
-
----
-
-### 🔹 Screenshots
-
-#### 🖥️ Dashboard Page View  
-![Dashboard Page Screenshot](./public/Dashboard_Page.png)
-
-#### 📷 Register Page View  
-![Register Page Screenshot](./public/Register_Page.png)
-
----
-
 ### 🔹 System Architecture
 
 📸 React.js Frontend (Camera + Dashboard)
@@ -58,15 +40,6 @@ Includes a **React.js dashboard** to visualize live attendance records. The syst
  
 ---
 
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/Vipul99999/Face-Detection-Attendance-System.git
-cd face-attendance-system
-```
-
----
 
 ### 2️⃣ Backend Setup (FastAPI + MongoDB)
 
@@ -149,19 +122,11 @@ Frontend runs at: **[http://localhost:5173](http://localhost:5173)**
 
 ---
 
-## 👨‍💻 Author
-
-* **Vipul Kumar Patel**  
-* 💼 [LinkedIn](https://linkedin.com/in/vipul-kumar-patel-90b1242b1)  
-* 📂 [GitHub](https://github.com/Vipul99999)
-
----
-
 ## 📜 License
 
 ```text
 MIT License
 
-Copyright (c) 2025 [Vipul Kumar Patel]
+Copyright (c) 2025 [Narendra Kumar Gupta]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
